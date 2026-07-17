@@ -1,5 +1,7 @@
 # 🛡️ RoadGuard Safety Analytics Dashboard
 
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://roadguard-analytics-8sgatjwuznjiyhezvuur58.streamlit.app/)
+
 RoadGuard Analytics is a professional-grade, interactive road safety intelligence dashboard designed to analyze and visualize UK safety incident records. Built using **Streamlit**, **Plotly**, and **Pandas**, this application provides deep, actionable insights into vehicle types, monthly trends, geographic hotspots, road types, and environmental factors (weather and lighting).
 
 ---
@@ -103,25 +105,3 @@ In the deployment form, fill in the details:
 - Click **Deploy!**
 
 Within 1-2 minutes, Streamlit Cloud will read your `requirements.txt`, install all the libraries, and launch your live production-ready dashboard. Enjoy! 🛡️
-
-
-<!-- <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/fb5cc1d0-1275-499d-bd74-3c18ce22c607
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev` -->
