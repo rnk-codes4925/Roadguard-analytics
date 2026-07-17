@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuard Analytics",
+  "description": "UK Road Safety Intelligence Dashboard featuring executive KPIs, monthly trend lines, vehicle breakdowns, geographical hotspots, and deep analytical filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
